@@ -51,3 +51,6 @@ Division by zero is checked and handled explicitly.
 These checks make the program more robust and user-friendly.
 Allows repeated evaluation until the user types "exit".
 This loop creates a simple Read-Eval-Print Loop (REPL), which is common in interpreters.
+
+#Output
+<img width="813" height="664" alt="Image" src="https://github.com/user-attachments/assets/a5e848ad-f4b4-490f-bd08-639165d9b271" />
